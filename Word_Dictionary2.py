@@ -1,6 +1,7 @@
 import json
 import difflib
 #!/usr/bin/env python
+#Change this to the directory of where data.json is located
 data = json.load(open("/Users/dannynguyen/PycharmProjects/files/data.json"))
 
 def word_finder(w):
