@@ -1,4 +1,4 @@
-# Interactive_Dictionary
+# Interactive Dictionary
 
 **Version 1.0.0** 
 
